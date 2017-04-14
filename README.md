@@ -13,7 +13,7 @@ It works for github prs like the
 2. add ~/bin to your PATH in your .bashrc / .zshrc / ... if it's not
    already there
    
-   `export PATH=~/bin:$PATH`
+  `export PATH=~/bin:$PATH`
    
 3. copy git-cpr to your ~/bin directory
 
