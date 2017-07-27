@@ -23,6 +23,8 @@ It works for github prs like the
 ```
 git cpr pr/$id
 ```
+Afterwards you will have a local branch called pr/$id
+
 or
 ```
 git cpr https://github.com/$user/$repo/pull/$id
