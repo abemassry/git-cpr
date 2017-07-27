@@ -20,9 +20,13 @@ It works for github prs like the
   `cp git-cpr ~/bin`
 
 ## USAGE
-`git cpr pr/$id`
+```
+git cpr pr/$id
+```
 or
-`git cpr https://github.com/$user/$repo/pull/$id`
+```
+git cpr https://github.com/$user/$repo/pull/$id
+```
 
 Afterwards you will have a local branch that is the same name as the
 remote branch
